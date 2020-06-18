@@ -35,4 +35,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.social]]
   medium = "Email"
   icon = "envelope-open"
-  link = "#"
+  link = ""
