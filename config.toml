@@ -18,8 +18,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   link = "#"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
+  medium = "LinkedIn"
+  icon = "linkedin"
   link = "#"
 
 [[params.social]]
