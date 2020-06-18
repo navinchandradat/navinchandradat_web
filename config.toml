@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Navin Chandradat"
-baseurl = "/"
+baseurl = "navin.netlify.app/"
 theme = "aerial"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -13,14 +13,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   favicon = "favicon.ico"
 
 [[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
+  medium = "Kaggle"
+  icon = "database"
+  link = "https://www.kaggle.com/navinchandradat"
 
 [[params.social]]
   medium = "LinkedIn"
   icon = "linkedin"
-  link = "#"
+  link = "https://www.linkedin.com/in/navin-chandradat/"
 
 [[params.social]]
   medium = "Dribbble"
@@ -30,9 +30,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/navinchandradat"
 
 [[params.social]]
   medium = "Email"
-  icon = "envelope-o"
+  icon = "envelope-open"
   link = "#"
